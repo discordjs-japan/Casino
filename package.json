@@ -1,0 +1,33 @@
+{
+  "name": "casino",
+  "version": "1.0.0",
+  "description": "Discordbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJS-JPN/Casino.git"
+  },
+  "keywords": [
+    "DJS-JPN"
+  ],
+  "author": "DJS-JPN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DJS-JPN/Casino/issues"
+  },
+  "homepage": "https://github.com/DJS-JPN/Casino#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0"
+  }
+}
